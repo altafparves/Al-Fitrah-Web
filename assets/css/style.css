@@ -1,0 +1,148 @@
+.navbar{
+    background-color: #174a85;
+    height: 100px;
+    width: 60%;
+    position: fixed;
+    z-index: 999999;
+}
+
+.logo{
+    width: 130px;
+    height: 130px;
+}
+
+/* .navbar-nav{
+    margin-left: 300px;
+} */
+
+.navbar a{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.home{
+    height: 600px;
+    width: 100%;
+    background-color: #235C9D;
+}
+
+.col-md-6{
+    height: 500px;
+    margin-top: 100px;
+}
+
+.logo-home{
+    width: 700px;
+    height: 700px;
+    margin-left: 100px;
+}
+
+.title{
+    color: white;
+    font-size: 50px;
+    font-style: bold;
+}
+
+
+.keunggulan{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+}
+
+.title-keunggulan{
+    color: #235C9D;
+    font-style: bold;
+}
+
+.col{
+    height: 200px;
+    width: 30%;
+}
+
+.check{
+    width: 40px;
+    height: 40px;
+}
+
+h4{
+    text-align: center;
+}
+
+.container-about{
+    width: 100%;
+    height: 900px;
+    background-color: #E8983E;
+}
+
+.container-about-left{
+    width: 70%;
+    height: 400px;
+}
+
+
+.carousel{
+    width: 100%;
+    
+}
+
+
+.container-about-right{
+    width: 50%;
+    height: 600px;
+}
+
+
+
+.text-about-us{
+    color: white;
+    font-size: 1.5em;
+}
+
+.title-about-us{
+    color:#000000;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+
+.container-output{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+}
+
+.title-output{
+    color: #E8983E;
+    font-style: bold;
+}
+
+.container-relawan{
+    height: 850px;
+    width: 100%;
+    background-color: #55A9DC;
+}
+
+.col-relawan{
+    background-color: white;
+}
+
+
+.card-relawan{
+    background-color: rgba(255, 255, 255, 0.758);
+    border: 1px solid rgba(255, 255, 255, .25);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, .25);
+    backdrop-filter: blur(15px);
+}
+
+.relawan-name{
+    color: #235C9D;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.title-relawan{
+    color: #7E7E7E;
+    font-size: 20px;
+}
